@@ -1,0 +1,22 @@
+[
+  {
+    "question": {
+      "number": "2",
+      "text": "下列关于 kerckhof 准则的说法正确的是：",
+      "options": [
+        "保持算法的秘密性比保持密钥的秘密性要困难的多",
+        "密钥一旦泄漏，也可以方便的更换",
+        "在一个密码系统中，密码算法是可以公开的，密钥应保证安全",
+        "公开的算法能够经过更严格的安全性分析"
+      ],
+      "answer": "；C",
+      "explanation": "柯克霍夫原则：密码系统的安全性依赖于密钥而不依赖于算法。",
+      "answered": true,
+      "user_answer": "D",
+      "is_correct": false
+    },
+    "user_answer": "D",
+    "correct_answer": "；C",
+    "time": "2025-12-27 15:20:32"
+  }
+]
